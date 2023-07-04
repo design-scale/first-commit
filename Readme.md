@@ -39,6 +39,9 @@ git pull
 ```
 Obtém as alterações mais recentes de um repositório remoto. Ele combina as alterações do repositório remoto na branch atual, atualizando assim o repositório local.
 
+
+
+
 ```bash
 git checkout nome_da_branch
 ```
@@ -53,6 +56,11 @@ Isso criará uma nova branch com o nome especificado.
 git branch 
 ```
 Lista, criar ou excluir branches. Ele mostra todas as branches existentes no repositório e permite a criação e exclusão de branches.
+
+```bash
+git branch -D 
+```
+Deleta branchs do índice do Git. 
 
 ```bash
 git merge 
