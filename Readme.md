@@ -77,7 +77,7 @@ Lista, criar ou excluir branches. Ele mostra todas as branches existentes no rep
 ```bash
 git branch -D nome-da-branch
 ```
-Deleta branchs do índice do Git. 
+Excluir uma branch específica no Git, incluindo todos os commits e alterações contidos nela
 
 ### git merge
 
