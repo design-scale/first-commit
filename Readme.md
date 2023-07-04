@@ -91,7 +91,7 @@ Mescla as alterações de uma branch em outra. Ele combina as alterações feita
 ```bash
 git fetch 
 ```
-Busa as alterações de um repositório remoto sem mesclá-las com a branch atual. Ele atualiza o repositório local com as informações mais recentes do repositório remoto.
+Busca as alterações de um repositório remoto sem mesclá-las com a branch atual. Ele atualiza o repositório local com as informações mais recentes do repositório remoto.
 
 
 
