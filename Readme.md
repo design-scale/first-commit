@@ -58,7 +58,7 @@ git branch
 Lista, criar ou excluir branches. Ele mostra todas as branches existentes no repositório e permite a criação e exclusão de branches.
 
 ```bash
-git branch -D 
+git branch -D nome-da-branch
 ```
 Deleta branchs do índice do Git. 
 
